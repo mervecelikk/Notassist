@@ -63,7 +63,7 @@ function active_item() {
 
 // GERİ SAYIM VE SAYFAYA YÖNLENDİRME
 
-var zaman = 20
+var zaman = 7
 function gerisayim() {
     if (zaman != 0) {
         zaman -= 1
